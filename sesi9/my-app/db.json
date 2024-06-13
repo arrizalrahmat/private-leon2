@@ -1,0 +1,80 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Bluebery Pancake",
+      "price": 8,
+      "category": "Breakfast",
+      "photo": "pancake.png"
+    },
+    {
+      "id": "2",
+      "name": "Lychee Tea",
+      "price": 4,
+      "category": "Drinks",
+      "photo": "lychee.png"
+    },
+    {
+      "id": "3",
+      "name": "Omelette",
+      "price": 8,
+      "category": "Breakfast",
+      "photo": "omelette.png"
+    },
+    {
+      "id": "4",
+      "name": "Tea",
+      "price": 3,
+      "category": "Drinks",
+      "photo": "tea.png"
+    },
+    {
+      "id": "5",
+      "name": "Coffee",
+      "price": 4,
+      "category": "Drinks",
+      "photo": "coffee.png"
+    },
+    {
+      "id": "6",
+      "name": "Sandwich",
+      "price": 14,
+      "category": "Breakfast",
+      "photo": "sandwich.png"
+    }
+  ],
+  "orders": [
+    {
+      "date": "2024-02-27T11:37:58.044Z",
+      "status": "DONE",
+      "seat": 25,
+      "name": "Jenna Jenna",
+      "amount": 25,
+      "id": "2c87"
+    },
+    {
+      "date": "2024-02-27T11:37:58.044Z",
+      "status": "ONGOING",
+      "seat": 5,
+      "name": "Andrean Nor",
+      "amount": 5,
+      "id": "1cf8"
+    },
+    {
+      "date": "2024-02-27T11:37:58.044Z",
+      "status": "DONE",
+      "seat": 10,
+      "name": "John Doe",
+      "amount": 15,
+      "id": "7ba3"
+    },
+    {
+      "id": "2c88",
+      "date": "2024-02-27T11:37:58.044Z",
+      "status": "DONE",
+      "seat": 26,
+      "name": "Arrizal Rahmat",
+      "amount": 35
+    }
+  ]
+}
